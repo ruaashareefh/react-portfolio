@@ -1,0 +1,36 @@
+[
+    {
+      "role": "Machine Learning Engineer Intern",
+      "organisation": "WestEd",
+      "startDate": "Apr, 2024",
+      "endDate": "Present",
+      "experiences": [
+        "Developed a centralized ChatGPT solution on Azure",
+        "Supported development of a searchable database for RFP proposals"
+      ],
+      "imageSrc": "history/wested.png"
+    },
+    {
+      "role": "Information Security Analyst Intern",
+      "organisation": "Loopio",
+      "startDate": "June, 2023",
+      "endDate": "Aug, 2023",
+      "experiences": [
+        "Created real-time security team performance visualization",
+        "Researched controls for SOC2 and ISO27001 audits"
+      ],
+      "imageSrc": "history/loopio.png"
+    },
+    {
+      "role": "Technologies/Research Intern",
+      "organisation": "DxD Healthtech",
+      "startDate": "Jan, 2024",
+      "endDate": "Apr, 2024",
+      "experiences": [
+        "Collaborated on market and data analysis for medical devices",
+        "Presented solutions for inclusive product development"
+      ],
+      "imageSrc": "history/dxd.png"
+    }
+  ]
+  

@@ -1,0 +1,26 @@
+[
+    {
+      "title": "S&P 500 Prediction",
+      "imageSrc": "projects/project.png",
+      "description": "Developed a stock prediction model.",
+      "skills": ["Scipy", "Scikit-learn", "Linear Regression"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Movie Genre Classification",
+      "imageSrc": "projects/project.png",
+      "description": "Built a k-nearest-neighbors classifier.",
+      "skills": ["Python", "Pandas", "Matplotlib", "KNN"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Personal Website",
+      "imageSrc": "projects/project.png",
+      "description": "Developed this personal portfolio website!",
+      "skills": ["React", "Vite", "CSS", "HTML"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]
